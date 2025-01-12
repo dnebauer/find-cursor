@@ -3,6 +3,19 @@ feature found in Windows XP (and possibly later?)
 
 ![screenshot.gif](https://raw.githubusercontent.com/arp242/find-cursor/master/screenshot.gif)
 
+Fork details
+------------
+
+This is a fork of [arp242/find-cursor][arp242-repo]. The following changes have
+been made to it:
+
+* added the bugfix documented in [issue #28][issue-28]
+* added man page (`find-cursor.1`)
+* added zsh completion file (`_find-cursor`).
+
+[arp242-repo]: https://github.com/arp242/find-cursor
+[issue-28]: https://github.com/arp242/find-cursor/issues/28
+
 Installation
 ------------
 
